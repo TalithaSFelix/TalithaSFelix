@@ -102,8 +102,8 @@ Feel free to check out my repositories and get in touch if you're interested in 
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TalithaSFelix's Github Stats" src="https://TalithaSFelix-github-readme-stats.vercel.app/api/?username=TalithaSFelix&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TalithaSFelix's Top Languages" src="https://TalithaSFelix-github-readme-stats.vercel.app/api/top-langs/?username=TalithaSFelix&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TalithaSFelix's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=TalithaSFelix&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TalithaSFelix's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TalithaSFelix&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

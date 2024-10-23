@@ -93,7 +93,7 @@ Feel free to check out my repositories and get in touch if you're interested in 
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TalithaSfelix&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TalithaSfelix&theme=monokai&border_radius=4.3&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 <!--   <p>
     <a href="https://github.com/TalithaSFelix/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
